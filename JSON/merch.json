@@ -1,0 +1,242 @@
+[
+{
+"id": 1,
+"item": "Gorras",
+"price": 4350,
+"img": "./assets/img/merch/gorras.webp"
+},
+{
+"id": 2,
+"item": "Bolso de mano",
+"price": 7000,
+"img": "./assets/img/merch/bolsoMano.webp"
+},
+{
+"id": 3,
+"item": "Libreta con bolígrafo",
+"price": 2000,
+"img": "./assets/img/merch/libretaLapicera.webp"
+},
+{
+"id": 4,
+"item": "Vasos de café",
+"price": 780,
+"img": "./assets/img/merch/vasoCafe.webp"
+},
+{
+"id": 5,
+"item": "Bolsa de madera",
+"price": 500,
+"img": "./assets/img/merch/bolsaMadera.webp"
+},
+{
+"id": 6,
+"item": "Vaso termico",
+"price": 12000,
+"img": "./assets/img/merch/vasoTermico.webp"
+},
+{
+"id": 7,
+"item": "Mochila",
+"price": 17000,
+"img": "./assets/img/merch/mochila.webp"
+},
+{
+"id": 8,
+"item": "Bolígrafos",
+"price": 900,
+"img": "./assets/img/merch/boligrafo.webp"
+},
+{
+"id": 9,
+"item": "Pendrives",
+"price": 9050,
+"img": "./assets/img/merch/pendrive.webp"
+},
+{
+"id": 10,
+"item": "Mate",
+"price": 15000,
+"img": "./assets/img/merch/mate.webp"
+},
+{
+"id": 11,
+"item": "Resaltadores Pastel",
+"price": 1800,
+"img": "./assets/img/merch/resaltadores-trabi.png"
+},
+{
+"id": 12,
+"item": "Corrector Filgo",
+"price": 700,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 13,
+"item": "Marcador de pizarra negro Trabi",
+"price": 650,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 14,
+"item": "Marcador de pizarra azul Trabi",
+"price": 650,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 15,
+"item": "Marcador de pizarra verde Trabi",
+"price": 650,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 16,
+"item": "Marcador de pizarra rojo Trabi",
+"price": 650,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 17,
+"item": "Borrador de pizarra",
+"price": 1500,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 18,
+"item": "Cuaderno A4 Avon 84 Hojas Rayado",
+"price": 3000,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 19,
+"item": "Cuaderno A4 Avon 84 Hojas Cuadriculado",
+"price": 3000,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 20,
+"item": "Block de Hojas Rayadas A4 Rivadavia x80 Hojas",
+"price": 2500,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 21,
+"item": "Block de Hojas Rayadas A4 Exito x80 Hojas",
+"price": 2500,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 22,
+"item": "Block de Hojas Cuadriculada Rivadavia x80 Hojas",
+"price": 2500,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 23,
+"item": "Block de Hojas Cuadriculada A4 Exito x80 Hojas",
+"price": 2500,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 24,
+"item": "Carpeta dos solapas",
+"price": 1000,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 25,
+"item": "Carpeta tres solapas",
+"price": 1100,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 26,
+"item": "Regla 30cm",
+"price": 400,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 27,
+"item": "Regla 50cm",
+"price": 600,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 28,
+"item": "Regla 20cm",
+"price": 300,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 29,
+"item": "Bolígrafo Filgo azul",
+"price": 400,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 30,
+"item": "Bolígrafo Filgo negro",
+"price": 400,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 31,
+"item": "Bolígrafo Bic azul",
+"price": 300,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 32,
+"item": "Bolígrafo Bic negro",
+"price": 300,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 33,
+"item": "Bolígrafo Bic verde",
+"price": 300,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 34,
+"item": "Lápiz Bic",
+"price": 250,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 35,
+"item": "Folios A4",
+"price": 1200,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 36,
+"item": "Folios Oficio",
+"price": 1300,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 37,
+"item": "Carpeta 3 anillos",
+"price": 1800,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 38,
+"item": "Bandas elásticas x100",
+"price": 900,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 39,
+"item": "Sacapuntas",
+"price": 400,
+"img": "./assets/img/merch/default.webp"
+},
+{
+"id": 40,
+"item": "Goma de Borrar",
+"price": 350,
+"img": "./assets/img/merch/default.webp"
+}
+]
